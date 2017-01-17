@@ -1,0 +1,108 @@
+C:\Users\Константин\AppData\Local\Temporary Projects\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe.config
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe.config
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Main.resources
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Settings.resources
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Splashscreen.resources
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Properties.Resources.resources
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csproj.GenerateResource.Cache
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.pdb
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.exe
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.pdb
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.AboutProgram.resources
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.AddParents.resources
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.PolnayaAnketa.resources
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Class.resources
+C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Classnaya.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe.config
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.exe
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.pdb
+K:\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe
+K:\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.pdb
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csprojResolveAssemblyReference.cache
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.AboutProgram.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.AddParents.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Class.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Classnaya.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Main.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.PolnayaAnketa.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Settings.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Splashscreen.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Properties.Resources.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csproj.GenerateResource.Cache
+I:\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe.config
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.exe
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.pdb
+I:\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe
+I:\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.pdb
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csprojResolveAssemblyReference.cache
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.AboutProgram.resources
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.AddParents.resources
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Class.resources
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Classnaya.resources
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Main.resources
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.PolnayaAnketa.resources
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Settings.resources
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Splashscreen.resources
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Properties.Resources.resources
+I:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csproj.GenerateResource.Cache
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Events.resources
+K:\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Autorization.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe.config
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.exe
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.pdb
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.pdb
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csprojResolveAssemblyReference.cache
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.AboutProgram.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Autorization.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Class.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Classnaya.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Events.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Main.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.PolnayaAnketa.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Settings.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Splashscreen.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Properties.Resources.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csproj.GenerateResource.Cache
+E:\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Olympics.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe.config
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.exe
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.pdb
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csprojResolveAssemblyReference.cache
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.AboutProgram.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Autorization.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Class.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Classnaya.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Events.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Main.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Olympics.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.PolnayaAnketa.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Settings.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Splashscreen.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Properties.Resources.resources
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csproj.GenerateResource.Cache
+E:\Programming\Работы на заказ(КБиП)\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.pdb
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe.config
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.exe
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.pdb
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.pdb
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csprojResolveAssemblyReference.cache
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.AboutProgram.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Autorization.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Class.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Classnaya.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Events.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Main.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Olympics.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.PolnayaAnketa.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Settings.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Forms.Splashscreen.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School_Helper_Version_2._0.Properties.Resources.resources
+E:\Работы на заказ(КБиП)\Саша Белая\School_Helper_Version_2_0\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.csproj.GenerateResource.Cache
+E:\Работы на заказ по программированию\Работы на заказ(КБиП)\C#\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\School Helper Version 2.0.exe.config
+E:\Работы на заказ по программированию\Работы на заказ(КБиП)\C#\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.exe
+E:\Работы на заказ по программированию\Работы на заказ(КБиП)\C#\Саша Белая\School Helper Version 2.0\School Helper Version 2.0\obj\Debug\School Helper Version 2.0.pdb

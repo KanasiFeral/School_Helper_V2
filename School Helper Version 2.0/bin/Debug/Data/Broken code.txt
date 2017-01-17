@@ -1,0 +1,82 @@
+//Индекс текущей строки
+            //int count = сhildrenDataGridView.CurrentRow.Index;
+            int count = сhildrenDataGridView.SelectedCells[0].RowIndex;
+
+            Mama_compare = сhildrenDataGridView[9, count].Value.ToString().Split(' ')[0];
+            Papa_compare = сhildrenDataGridView[10, count].Value.ToString().Split(' ')[0];
+            MessageBox.Show(Mama_compare);
+            MessageBox.Show(Papa_compare);
+
+            // TODO: данная строка кода позволяет загрузить данные в таблицу "school_HelperDataSet.Parents". При необходимости она может быть перемещена или удалена.
+            this.parentsTableAdapter.Fill(this.school_HelperDataSet.Parents);
+            // TODO: данная строка кода позволяет загрузить данные в таблицу "school_HelperDataSet.Сhildren". При необходимости она может быть перемещена или удалена.
+            this.сhildrenTableAdapter.Fill(this.school_HelperDataSet.Сhildren);
+
+            //Соединение по ID для родителей
+            for (int i = 0; i < this.school_HelperDataSet.Parents.Rows.Count/*сhildrenDataGridView.Rows.Count*/; i++)
+            {
+                /*for (int i = 0; k < parentsDataGridView.Rows.Count; k++)
+                {*/
+                    //условие для мамы
+                if (Mama_compare == Convert.ToString(this.school_HelperDataSet.Parents[i][0])/*parentsDataGridView[0, i].Value.ToString()*/)
+                {
+                    I_m = Convert.ToString(this.school_HelperDataSet.Parents[i][1])/*parentsDataGridView[1, i].Value.ToString()*/;
+                    F_m = Convert.ToString(this.school_HelperDataSet.Parents[i][2])/*parentsDataGridView[2, i].Value.ToString()*/;
+                    O_m = Convert.ToString(this.school_HelperDataSet.Parents[i][3])/*parentsDataGridView[3, i].Value.ToString()*/;
+                    V_m = Convert.ToString(this.school_HelperDataSet.Parents[i][5])/*parentsDataGridView[5, i].Value.ToString()*/;
+                    T_m = Convert.ToString(this.school_HelperDataSet.Parents[i][6])/*parentsDataGridView[6, i].Value.ToString()*/;
+                    A_m = Convert.ToString(this.school_HelperDataSet.Parents[i][7])/*parentsDataGridView[7, i].Value.ToString()*/;
+                    R_m = Convert.ToString(this.school_HelperDataSet.Parents[i][8])/*parentsDataGridView[8, i].Value.ToString()*/;
+                    D_m = Convert.ToString(this.school_HelperDataSet.Parents[i][9])/*parentsDataGridView[9, i].Value.ToString()*/;
+                    S_m = Convert.ToString(this.school_HelperDataSet.Parents[i][10])/**parentsDataGridView[10, i].Value.ToString()*/;
+                    //Прогрузка в текстовые поля данных о маме
+                    AS.textBox2.Text = F_m;
+                    AS.textBox3.Text = I_m;
+                    AS.textBox12.Text = O_m;
+                    AS.textBox14.Text = V_m;
+                    AS.maskedTextBox1.Text = T_m;
+                    AS.textBox17.Text = A_m;
+                    AS.textBox18.Text = R_m;
+                    AS.textBox19.Text = D_m;
+                    AS.textBox31.Text = S_m;
+
+                    AS.Sost_M = "Информация о маме";
+                }
+                else
+                {
+                    AS.Sost_M = "Нету информации о маме";
+                    AS.panel1.Visible = false;
+                } 
+                    //Условие для папы
+                if (Papa_compare == this.school_HelperDataSet.Parents[i][0] /*parentsDataGridView[0, i].Value.ToString()*/)
+                {
+                    I_p = Convert.ToString(this.school_HelperDataSet.Parents[i][1])/*parentsDataGridView[1, i].Value.ToString()*/;
+                    F_p = Convert.ToString(this.school_HelperDataSet.Parents[i][2])/*parentsDataGridView[2, i].Value.ToString()*/;
+                    O_p = Convert.ToString(this.school_HelperDataSet.Parents[i][3])/*parentsDataGridView[3, i].Value.ToString()*/;
+                    V_p = Convert.ToString(this.school_HelperDataSet.Parents[i][5])/*parentsDataGridView[5, i].Value.ToString()*/;
+                    T_p = Convert.ToString(this.school_HelperDataSet.Parents[i][6])/*parentsDataGridView[6, i].Value.ToString()*/;
+                    A_p = Convert.ToString(this.school_HelperDataSet.Parents[i][7])/*parentsDataGridView[7, i].Value.ToString()*/;
+                    R_p = Convert.ToString(this.school_HelperDataSet.Parents[i][8])/*parentsDataGridView[8, i].Value.ToString()*/;
+                    D_p = Convert.ToString(this.school_HelperDataSet.Parents[i][9])/*parentsDataGridView[9, i].Value.ToString()*/;
+                    S_p = Convert.ToString(this.school_HelperDataSet.Parents[i][10])/**parentsDataGridView[10, i].Value.ToString()*/;
+                    //Прогрузка в текстовые поля данных о папе
+                    AS.textBox4.Text = F_p;
+                    AS.textBox7.Text = I_p;
+                    AS.textBox9.Text = O_p;
+                    AS.textBox10.Text = V_p;
+                    AS.maskedTextBox2.Text = T_p;
+                    AS.textBox8.Text = A_p;
+                    AS.textBox6.Text = R_p;
+                    AS.textBox5.Text = D_p;
+                    AS.textBox1.Text = S_p;
+
+                    AS.Sost_P = "Информация о папе";
+                }
+                else
+                {
+                    AS.Sost_P = "Нету информации о папе";
+                    AS.panel2.Visible = false;
+                }
+                //}
+            }
+            MessageBox.Show(I_p);

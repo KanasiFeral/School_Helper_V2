@@ -1,0 +1,1 @@
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source="C:\Users\Константин\Documents\Visual Studio 2012\Projects\C#\School Helper Version 2.0\School Helper Version 2.0\bin\Debug\Data\DB\School Helper.mdb"
